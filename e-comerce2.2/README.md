@@ -29,4 +29,4 @@ en esta entrega tuve dificultades ya que no logre entender bien el tema del inve
 y de como insertar el modal cuando se cargan los productos dinamicamente, ya logre insertarle un boton dinamicamente a cada producto pero solo me trae un link y no he logrado ejecutar el modal pasandole solamente un link, e4spero segui mejorando el proyecto en los dias siguientes
 
 ultima version: le agrege el modal y realize toda la logica
-https://github.com/pedrinchixx/ultimaversion.git
+https://github.com/pedrinchixx/ultima-version2.git
